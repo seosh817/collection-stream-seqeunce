@@ -1,1 +1,1 @@
-JavaStream
+JavaStreamKotlinSequence
